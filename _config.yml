@@ -9,7 +9,7 @@ baseurl: /
 
 # Website info
 title: candicodeit
-description: The professional publishing platform
+description: site controlled by Candi
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
@@ -67,13 +67,13 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: myJekyll
-repo: jasper2
+username: candicodeit
+repo: githubpages
 branch: master
-relative_source: /
+relative_source: ../
 destination: ../jasper2-pages/
-production_url:  https://myJekyll.github.io/jasper2/
-source_url:  https://github.com/myJekyll/jasper2/
+production_url:  https://candicodeit.github.io/githubpages/
+source_url:  https://github.com/candicodeit/githubpages/
 
 exclude:
   - README.md
