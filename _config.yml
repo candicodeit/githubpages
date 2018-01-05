@@ -5,15 +5,15 @@ paginate: 100 # it will paginate after this number
 language: 'en-us'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
+baseurl: '/'
 
 # Website info
 title: candicodeit
 description: site controlled by Candi
-cover: /assets/images/blog-cover.jpg
-logo: /assets/images/blog-icon.png
-logo_dark: /assets/images/favicon.png
-favicon: /assets/images/favicon.png
+cover: assets/images/blog-cover.jpg
+logo: assets/images/blog-icon.png
+logo_dark: assets/images/favicon.png
+favicon: assets/images/favicon.png
 production_url: https://candicodeit.github.io/githubpages/
 source_url: https://github.com/candicodeit/githubpages/
 
