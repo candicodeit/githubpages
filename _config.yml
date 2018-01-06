@@ -5,7 +5,7 @@ paginate: 100 # it will paginate after this number
 language: 'en-us'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /githubpages/
+baseurl: '/'
 
 # Website info
 title: candicodeit
@@ -23,7 +23,7 @@ subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
 twitter: candicodeit # replace by your username
-facebook: ghost # replace by your username
+instagram: candicodeit # replace by your username
 
 # Disqus
 disqus: False
@@ -68,7 +68,7 @@ feed:
 safe: False
 lsi: False
 username: candicodeit
-repo: githubpages/
+repo: githubpages
 branch: master
 relative_source: ../githubpages/
 destination: ../jasper2-pages/
