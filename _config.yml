@@ -8,12 +8,12 @@ language: 'en-us'
 baseurl: /githubpages/
 
 # Website info
-title: candicodeit
-description: site controlled by Candi
+title: <candicodeit />
+description: ...
 cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
-logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.png
+logo:
+logo_dark:
+favicon: assets/images/icon-code.png
 production_url: https://candicodeit.github.io/githubpages/
 source_url: https://github.com/candicodeit/githubpages/
 
@@ -25,13 +25,14 @@ subscribers: True # you need to connect an external service for this to work,
 twitter: candicodeit # replace by your username
 instagram: candicodeit # replace by your username
 tumblr: candicodeit
+github: candicodeit
 
 # Disqus
 disqus: False
 disqus_shortname: myjekyll # replace with your disqus username
 
 # Google Analytics
-google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+google_analytics: UA-112051419-1 # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title
