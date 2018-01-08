@@ -5,7 +5,8 @@ cover:  assets/images/writing.jpg
 navigation: True
 title: Week 1 of Learning
 date: 2018-01-08 12:24:00
-tags: 
+tags: goals, alwayslearning
+comments: true
 class: post-template
 subclass: 
 author: candi
