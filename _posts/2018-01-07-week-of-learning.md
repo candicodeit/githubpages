@@ -20,3 +20,5 @@ This year, I wanted to focus more on learning. In my field, it's always benefici
 For my first week, I've completed more lessons than I planned, started a Udemy course and setup a GitHub page using Jekyll. If I keep up this pace, maybe I can put a dent in my professional "To Be Read" stack. 
 
 Here's to #alwayslearning 
+
+P.S. This blog setup is still a work in progress.
