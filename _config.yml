@@ -28,8 +28,8 @@ tumblr: candicodeit
 github: candicodeit
 
 # Disqus
-disqus: False
-disqus_shortname: myjekyll # replace with your disqus username
+disqus: True
+disqus_shortname: candicodeit # replace with your disqus username
 
 # Google Analytics
 google_analytics: UA-112051419-1 # replace with your GA tracking identifier
