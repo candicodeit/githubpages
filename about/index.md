@@ -6,12 +6,10 @@ navigation: true
 logo: 'assets/images/ghost.png'
 class: page-template
 subclass: 'post page'
----
+--- 
 
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
+Hi! I'm Candi! By day, I work at Boats Group as a front end developer with my main focus on A/B Testing and user research for our portals. By night, I support the readers of A Book Apart, a small publishing company focused on creating books on the latest web topics.
 
-> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
+My passion for the web started when I was browsing the internet through AOL as a high school senior. I dabbled with the AOL Instant Messenger code and progressed into creating my own website on Angelfire. In college, I quickly changed my major from Business Management to Computer Information Systems. Classes on SQL and debugging seemed to come natural to me. I worked for private companies and advertising agencies on websites for restaurants, hotels, apartment communities, property management software, tourism and a jewelry store. The most memorable project was working on [Made By Hand](http://thisismadebyhand.com/), my first responsive design project with the talented [Mandy Brown](http://aworkinglibrary.com/).
 
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
-
-If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
+Mixed in with my web career, I've had interesting positions outside of coding. I was the podcast producer for [5by5](http://5by5.tv/). 
