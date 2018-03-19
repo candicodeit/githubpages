@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  assets/images/header/wallofstickies.jpg
 navigation: True
-title: Week 1 of Learning
+title: Transitioning into UX
 date: 2018-03-19 16:46:00
 tags: ux alwayslearning
 comments: true
