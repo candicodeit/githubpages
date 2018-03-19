@@ -4,7 +4,7 @@ current: post
 cover:  assets/images/header/wallofstickies.jpg
 navigation: True
 title: Week 1 of Learning
-date: 2018-19-03 16:46:00
+date: 2018-03-19 16:46:00
 tags: ux alwayslearning
 comments: true
 class: post-template
