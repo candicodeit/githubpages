@@ -23,7 +23,7 @@
                 <a class="social-link social-link-tw" href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener">{% include twitter.html %}</a>
             {% endif %}
             {% if site.goodreads %}
-                <a class="social-link social-link-gr" href="https://twitter.com/{{ site.goodreads }}" target="_blank" rel="noopener">{% include goodreads.html %}</a>
+                <a class="social-link social-link-gr" href="{{ site.goodreads }}" target="_blank" rel="noopener">{% include goodreads.html %}</a>
             {% endif %}
         </div>
         {% if site.subscribers %}
