@@ -29,3 +29,5 @@ As for upper management, I've always made a point to reach out to them. Maybe pr
 One day, I hope to be a good manager and leader. I aspire to be one of those that not only help others grow within the company, but also as a person. I hope that I can help prepare them for the next adventure or just life in general. 
 
 If you’re a manager but not sure how to start your 1-on-1 meetings with your employees, I’ve really enjoyed [this reference from Lara Hogan](https://larahogan.me/blog/first-one-on-one-questions/) to help ease the tension. She has a lot of other great blog posts about being a better manager, as well as offering [coaching sessions](http://where-with-all.com/) with her friend and colleague, Deepa Subramaniam.
+
+_photo caption: Marius was a great influence to our team. We wanted to show him how much we admired him by wearing the Marius attire, all black._
