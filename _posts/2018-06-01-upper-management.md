@@ -4,7 +4,7 @@ current: post
 cover:  assets/images/header/marius-day.jpg
 navigation: True
 title: You Should Not Be Afraid to Talk to Upper Management
-date: 2018-03-19 16:46:00
+date: 2018-06-01 12:45:00
 tags: management leadership
 comments: true
 class: post-template
