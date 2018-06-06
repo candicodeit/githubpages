@@ -110,7 +110,6 @@ body {
     padding-top: 12px;
     padding-bottom: 12px;
     color: #fff;
-    background: color(var(--darkgrey) l(-5%)) no-repeat center center;
     background-size: cover;
 }
 
@@ -433,7 +432,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     line-height: 1.15em;
     font-weight: 500;
     letter-spacing: 0.5px;
-    text-transform: uppercase;
+    text-transform: lowercase;
 }
 
 .post-card-title {

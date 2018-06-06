@@ -16,8 +16,8 @@
             {% if site.github %}
                 <a class="social-link social-link-gh" href="https://github.com/{{ site.github }}" target="_blank" rel="noopener">{% include github.html %}</a>
             {% endif %}
-            {% if site.instagram %}
-                <a class="social-link social-link-ig" href="https://www.instagram.com/{{ site.instagram }}" target="_blank" rel="noopener">{% include instagram.html %}</a>
+            {% if site.linkedin %}
+                <a class="social-link social-link-li" href="https://www.linkedin.com/in/{{ site.linkedin }}/" target="_blank" rel="noopener">{% include linkedin.html %}</a>
             {% endif %}
             {% if site.twitter %}
                 <a class="social-link social-link-tw" href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener">{% include twitter.html %}</a>
@@ -25,6 +25,10 @@
             {% if site.goodreads %}
                 <a class="social-link social-link-gr" href="{{ site.goodreads }}" target="_blank" rel="noopener">{% include goodreads.html %}</a>
             {% endif %}
+            {% if site.instagram %}
+                <a class="social-link social-link-ig" href="https://www.instagram.com/{{ site.instagram }}" target="_blank" rel="noopener">{% include instagram.html %}</a>
+            {% endif %}
+            
         </div>
         {% if site.subscribers %}
             <a class="subscribe-button" href="#subscribe">Subscribe</a>
