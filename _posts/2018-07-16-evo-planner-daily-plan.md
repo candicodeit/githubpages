@@ -14,7 +14,13 @@ author: candi
 
 I've always been a huge fan of planning. Since I was in middle school, I have used both a school and personal planners. Nowadays, I don't use a typical yearly planner. On the days I didn't plan in a yearly planner, I often found it as wasted paper. Through [bullet journaling|http://bulletjournal.com/], I've learned to plan my tasks on a monthly, weekly, and daily basis, as well as identifying uncompleted tasks that I just won't complete in the near future. I currently use Leuchtturm 1917 squared medium notebooks to plan out my days, take notes, and jot work or personal ideas. I've also used [goal setting techniques](https://inkandvolt.com/guides/) from [Kate Matsudaira](http://katemats.com/) for almost two years now. Though I feel like these have been helpful techniques, I'm always looking for new ways to improve my workflow. 
 
-I came across [Project Evo](https://projectevo.org/) on Kickstarter. I loved the idea that a planner was custom made for your specific brain type. There are 4 brain types: Oracle, Alchemist, Explorer, Architect. Based on the [assessment](https://projectevo.org/bta/), the planner was laid out to focus on areas that worked with your brain type to help you achieve your goals. I finally received my planner. It came in a nice presentable box. The pages looked like great layouts to truly help plan my day to achieve my goals. I tried it out for a few days. These are my thoughts on the daily pages: 
+I came across [Project Evo](https://projectevo.org/) on Kickstarter. I loved the idea that a planner was custom made for your specific brain type. There are 4 brain types: Oracle, Alchemist, Explorer, Architect. Based on the [assessment](https://projectevo.org/bta/), the planner was laid out to focus on areas that worked with your brain type to help you achieve your goals. 
+
+![alt text](https://github.com/candicodeit/githubpages/blob/project-evo/assets/images/evo-planner.jpg "delivery box for Evo Planner - Brain Type: Oracle")
+
+I finally received my planner. It came in a nice presentable box. The pages looked like great layouts to truly help plan my day to achieve my goals. I tried it out for a few days. These are my thoughts on the daily pages: 
+
+![alt text](https://github.com/candicodeit/githubpages/blob/project-evo/assets/images/evo-daily-plan.jpg "daily planning pages for Oracle brain type")
 
 _Pros_
 * reflecting on positivity daily (with gratitude and favorite thing)
@@ -34,6 +40,8 @@ _Cons_
 	* health as a favorite thing with a wellness icon (sprout)
 	* relationships with a self-care icon (heart)
 * favorite thing should be lines then the icon selections underneath
+
+![alt text](https://github.com/candicodeit/githubpages/blob/project-evo/assets/images/evo-daily-plan-sketch.jpg "sketch of how I'd reorganize the daily planning pages")
 
 ## Order of Operations
 
