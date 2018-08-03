@@ -29,7 +29,7 @@ github: candicodeit
 goodreads: https://www.goodreads.com/review/list/3402800-candi?shelf=professional
 
 # Disqus
-disqus: True
+disqus: False
 disqus_shortname: candicodeit # replace with your disqus username
 
 # Google Analytics
