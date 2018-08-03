@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  
+cover:  none
 navigation: True
 title: Attend the Conference. Don't Work.
 date: 2018-08-01 22:30:00
