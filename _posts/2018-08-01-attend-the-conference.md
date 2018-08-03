@@ -4,7 +4,7 @@ current: post
 cover:  
 navigation: True
 title: Attend the Conference. Don't Work.
-date: [date/time format | 2018-08-01 22:30:00]
+date: 2018-08-01 22:30:00
 tags: conference, work
 comments: true
 class: post-template
