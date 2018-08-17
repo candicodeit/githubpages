@@ -7,5 +7,5 @@ created: jan 5, 2018
 **Blog Posts**
 - posts filed under [_posts_](https://github.com/candicodeit/githubpages/tree/master/_posts)
 - post images filed under [assets/images/header](https://github.com/candicodeit/githubpages/tree/master/assets/images/header)
-- [Blog post template](https://gist.github.com/candicodeit/c6a4b7aa5ee00efa3f698954b3263ca8)
+- [blog post template](https://gist.github.com/candicodeit/c6a4b7aa5ee00efa3f698954b3263ca8)
 
