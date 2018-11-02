@@ -5,7 +5,7 @@ cover:  assets/images/header/koko-hunt-inclusive-aea.jpg
 navigation: True
 title: Attend the Conference. Don't Work.
 date: 2018-08-01 22:30:00
-tags: conference, work
+tags: conference work
 comments: true
 class: post-template
 subclass: 
