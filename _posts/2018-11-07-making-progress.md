@@ -24,5 +24,5 @@ Evolution of my Goals page:
 I'm hoping to incorporate more of the tactics suggested in [Make Time: How to Focus on What Matters Every Day](https://www.amazon.com/Make-Time-Focus-Matters-Every/dp/0525572422) for my daily routine. I've also shared my GitHub goals with a few close friends to make it more visible. I hope this inspires people to start anywhere towards their goals. They can figure out how to get there as they go along. 
 
 
-_photo caption: generated color palette from background image_
+_photo caption: generated color palette from background image_   
 [photo credit: coolors.co](https://coolors.co/f8f9fb-413452-261643-7e7e8a-081528)
