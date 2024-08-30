@@ -14,7 +14,7 @@ cover: assets/images/header/briar-rose_mantia-me.jpg
 logo:
 logo_dark:
 favicon: assets/images/icon-code.png
-production_url: http://candicode.it/
+# production_url: http://candicode.it/
 source_url: https://github.com/candicodeit/githubpages/
 
 # Social info
@@ -72,10 +72,10 @@ safe: False
 lsi: False
 username: candicodeit
 repo: githubpages
-branch: master
+branch: main
 relative_source: ../githubpages/
 destination: ../jasper2-pages/
-production_url:  http://candicode.it/
+# production_url:  http://candicode.it/
 source_url:  https://github.com/candicodeit/githubpages/
 
 exclude:
